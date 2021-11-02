@@ -1,0 +1,38 @@
+.big{
+    margin-top: 100px;
+    width: 600px;
+    height: 250px;
+}
+.small{
+    width: 200px;
+    float: left;
+}
+.kk{
+    height: 70px;
+}
+.red{
+    background-color: rgb(247, 1, 1);
+    height: 70px;
+   
+}
+.green{
+    background-color: rgb(0, 133, 31);
+    height: 70px;
+    
+}
+.blue{
+    height: 70px;
+    background-color: rgb(25, 0, 255);
+}
+.black{
+    height: 70px;
+    background-color: rgb(3, 2, 5);
+}
+.grey{
+    height: 70px;
+    background-color: rgb(128, 128, 128);
+}
+.yellow{
+    background-color: rgb(208, 255, 0);
+    height:70px;
+}
